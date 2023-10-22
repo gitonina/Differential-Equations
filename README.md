@@ -2,7 +2,7 @@
 A project to simulate how a population can change through the years given certain conditions
 
 Planteamiento:
-Considere el modelo de cuatro variables de relaci´on de la humanidad con la naturaleza siguiente: xC
+Considere el modelo de cuatro variables de relación de la humanidad con la naturaleza siguiente: xC
 representa a la poblaci´on de la ’gente com´un’ o ’comunes’, xE representa la poblaci´on de la ’´elite’,
 y representa la ’naturaleza’ es decir todos los recursos naturales disponibles y la ´ultima variable a
 representa el ’alimento’ que mantiene la poblaci´on humana.
